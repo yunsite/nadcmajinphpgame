@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--<?php
+print <<<EOT
+ --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>$this->title</title>
+</head>
+<body>
+管理员管理：<span>$this->adminname</span>
+<form action="authmanage.php" method="post">
+<input type="hidden" name="userid" value="$this->userid" />
+<label><input type="radio" name="level" value="0" $this->rbchecked0 />顶级管理员</label>
+<label><input type="radio" name="level" value="1" $this->rbchecked1 />内容管理员</label>
+<br />
+<table border="1">
+	<tbody>
+		<tr height="50">
+			<td style="vertical-align: top;">类别</td>
+			<td style="vertical-align: top;">是否有权限</td></tr>
+								<!--
+EOT
+;
+foreach ( $this->newsClasses as $row)
+{
+	print <<<EOT
+	 -->
+		<tr>
+			<td style="vertical-align: top;">$row->name</td>
+			<td style="vertical-align: top;"><input type="checkbox" name="cbNewsClasses$row->id" 
+EOT
+;
+if(isset($this->cbNewsClasses['cbNewsClasses'.$row->id]))
+{
+	echo "checked=\"checked\"";
+}
+	print <<<EOT
+ /></td></tr>
+								<!--
+EOT
+;
+}
+print <<<EOT
+-->
+	</tbody>
+</table>
+<input type="submit" value="更新" name="btnUpdate" /></form>
+<input type="button" value="取消" />
+</body>
+</html>     
+<!--
+EOT
+?>-->         

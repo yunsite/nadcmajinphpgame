@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--<?php
+print <<<EOT
+ --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>$this->title</title>
+</head>
+<body>
+管理员列表
+<table border="1">
+	<tbody>
+		<tr height="50">
+			<td style="vertical-align: top;">用户名</td>
+			<td style="vertical-align: top;">权限管理</td>
+			<td style="vertical-align: top;">删除</td></tr>
+					<!--
+EOT
+;
+while($row=mysql_fetch_object($this->userinfos))
+{
+	print <<<EOT
+	 -->
+		<tr>
+			<td style="vertical-align: top;">$row->adminname</td>
+			<td style="vertical-align: top;"><a href="authmanage.php?userid=$row->id">权限管理</a></td>
+			<td style="vertical-align: top;"><a href="usermanage.php?action=delete&userid=$row->id">删除</a></td></tr>
+					<!--
+EOT
+;
+}
+print <<<EOT
+-->
+	</tbody>
+</table>
+
+<form action="usermanage.php" method="post">用户名<input type="text" name="username" value="$this->tbUsername" />
+<br />
+密码<input type="password" name="password" />
+<br />
+<input type="submit" value="添加管理员" name="btnAddUser" /></form>
+<br />
+</body>
+</html>
+<!--
+EOT
+?>-->

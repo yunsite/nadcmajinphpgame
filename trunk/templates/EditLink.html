@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<!--<?php
+print <<<EOT
+ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>编辑页面</title>
+<script type="text/javascript" src="../js/color.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/AGMpage.js"></script>
+</head>
+<body>
+		<!--
+EOT
+;
+if($this->page=='link')
+{
+$info=$this->link;
+print <<<EOT
+-->
+修改游戏
+<form  action="" method="post" onSubmit="GameCheck()">
+游戏名称：<input type="text" name="gameName" id="gameName"  value='$info->gamename'/>
+链接颜色：<input type="text" name="urlColor" id="urlColor" value='$info->color' readonly="readonly" style='background:$info->color'/> (默认黑色)
+游戏优先级：<input type="text" name="gameRank" id="gameRank" value='$info->rank'/>(数字越大优先级越高)
+游戏链接：<input type="text" name="gameUrl" id="gameUrl" value='$info->gameurl'/>
+游戏类别：<select id="gameClass" name="gameClass" />
+		<!--
+EOT
+;
+while($row=mysql_fetch_object($this->classList))
+{
+	$isCheck='';
+	if($row->id==$this->link->classid)
+	{
+		$isCheck='selected';
+	}
+	print <<<EOT
+	 -->
+ <option value='$row->id' $isCheck>$row->classname</option>
+		<!--
+EOT
+;
+}
+print <<<EOT
+-->
+</select>
+<input type="submit" value="修改" name="addgame"/>
+</form>
+<script type="text/javascript">
+ImportColorPicker("urlColor");
+</script>
+<!-- 
+EOT
+;
+}
+else{
+$info=$this->nowClass;
+print <<<EOT
+ -->
+修改游戏类别
+<form  action="" method="post" onSubmit="ClassCheck()">
+类别名称：<input name="className" id="className" type="text" value='$info->classname'/>
+类别优先级：<input type="text" name="classRank" id="classRank" value='$info->rank'/>(数字越大优先级越高)
+<input type="submit" value="修改" name="addclass">
+</form>
+<!--
+EOT
+;}
+print <<<EOT
+-->
+$this->js
+</body>
+</html>
+<!--
+EOT
+;
+?>
+-->

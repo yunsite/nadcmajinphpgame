@@ -1,0 +1,68 @@
+function GotoOtherClass()
+{
+	window.location.href="AjaxGameList.php?id="+$('gameClass').value;
+}
+function EditLink(i)
+{
+	window.location.href="EditLink.php?page=class&id="+i;
+}
+function DelLink(i)
+{
+    if(confirm("删除一个类别，所有这个类别的链接都要跟着被删除，你确认吗？"))
+    {
+        InitAjax();
+	    var callBack=new CallBack(ShowDeleLink);
+	    Ajax("../admin/DeleteClass.php","id="+i,callBack);
+	    return true;
+    }
+    return false;
+}
+function ShowDeleLink(res)
+{
+    if("true"==res)
+    {
+        alert("删除成功！");
+        window.location.href=window.location.href;
+    }
+    else
+    {
+        alert("删除失败请重试！");
+    }
+}
+function CheckAll()
+{
+	var c= document.getElementsByName("checkbox");   
+	for(i=0;i<c.length;i++)   
+	{   
+		c[i].checked=true;
+	}
+}
+function ChangeCheck()
+{
+	var c= document.getElementsByName("checkbox");   
+	for(i=0;i<c.length;i++)   
+	{   
+		if(c[i].checked)
+			c[i].checked=false;
+		else
+			c[i].checked=true;		
+	}
+}
+function DelChecked()
+{
+	var id="";
+	var flag=true;
+	var c= document.getElementsByName("checkbox");   
+	for(i=0;i<c.length;i++)   
+	{  
+		if(c[i].checked){
+		if(flag){
+			id+=c[i].value;
+			flag=false;
+			}
+		else
+		    id+=";"+c[i].value;
+		    }
+	}
+	DelLink(id);
+}

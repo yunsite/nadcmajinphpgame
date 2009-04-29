@@ -1,0 +1,3420 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+}
+"Configurations"
+{
+    "Local|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+    "Staging|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+    "Production|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+}
+"Files"
+{
+    "fckeditor\\fckutils.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\fckconnector.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckcodeformatter.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\lightbulb.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\html.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\htm.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\et.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\CARTOON.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block2Pic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\usermanage.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\wsc\\w.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\xls.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\spacer.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckstylecommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp\\sample03.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\wsc\\ciframe.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\car.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_documentation.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\sprites.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\lang\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ms.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\AjaxGameList.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\stars.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_flash.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarspecialcombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.arrowright.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\ButtonArrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fcknamedcommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.cfc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\uploadtest.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\GAMES.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\starsPic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\htaccess.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\bbcode\\_sample\\sample.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\commands.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_docprops.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.expand.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_form.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\getNewsList.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl\\sample04.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\gu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\DeleteClass.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\connector.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_docprops\\fck_document_preview.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_flash"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\util.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\simplecommands"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\th.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\color.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\regular_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarpanelbutton.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckstyles.xml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block2Left-Line.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\getNewsByID.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\fckscriptloader.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\io.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\AjaxGameList.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\upload.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdomrangeiterator.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckxhtml.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\basexml.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\exe.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckremoveformatcommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\oumeiNews.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\manPic1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fck_contextmenu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\starsPlay.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\dragresizetable"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\icons\\16.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\fck_dialog_ie6.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "lib\\global.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample01.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample03_mx.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\http_imgloadCAHEZVFY.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\vsd.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\zh-cn.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\shades_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".settings\\com.zend.php.javabridge.core.prefs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_image\\fck_image.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\AjaxClassList.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\gif.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample02.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\autogrow\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.collapse.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\vi.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\xml.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\license.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample01_mx.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\zip.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\blueNew.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\FORUM.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\lang"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\fck_hiddenfield.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckxml_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample03.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\news.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\computerGame.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\server-scripts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\cloth.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_blockquote.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\connector.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_image\\fck_image_preview.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample04.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckelementpath.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ja.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\find.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\AjaxGameList.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\basexml.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_div.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\hr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\newsbyid.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckurlparams.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\gameNews.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\psp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\gamePublishTime.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample05.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\js\\fckadobeair.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green7.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31\\index.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\girlPic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_p.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\bn.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_tablecell.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php\\sample01.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckxhtml_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\es.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\sv.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample06.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\beauty2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\upload_fck.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\_fckviewstrips.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckimagepreloader.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\uk.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmupload.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\FolderOpened32.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\moneyComment .gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\lasso\\connector.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample07.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample03.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.collapse.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\blackDot.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\Folder32.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_textfield.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\browser.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\bmp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\LeftNewGames.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\redLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".settings\\org.eclipse.php.core.projectOptions.prefs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample08.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckcorestylecommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\dialog.sides.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\upload.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmactualfolder.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\fck_dialog_ie6.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\tv.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\http_imgloadCAA2UP15.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\browser.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_image.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31\\bcastr31.swf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_link"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample09.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_connector.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\jpg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\en-ca.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckicon.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\dialog.sides.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\new.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\fckutil.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_textarea.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\fck_strip.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\cat.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\logo.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl\\sample01.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\basexml.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\placeholder.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor_php4.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "JsTest.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\ppt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\txt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\spellerStyle.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarfontsizecombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\lt.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\swf.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_commands.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sanjiao.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckpastewordcommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\angry_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktoolbaritems.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\wsc\\tmpFrameset.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\gameListLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckenterkey.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\arrow_ltr.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block61.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\rdp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\zope.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\giveMyWish.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\sample01.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\he.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\man.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\single.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample15.config.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarfontformatcombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\starRecom.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\htm.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckmenuitem.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\no.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_select.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\pdf.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\icons\\48.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_link\\fck_link.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\sprites.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\ai.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\js\\fckxml.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.expand.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\confused_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_replace.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_checkbox.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.expand.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\bg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\doc.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\el.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\sprites.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.separator.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\showPic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckselection_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\AjaxGameManage.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\avi.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\connector.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarbreak_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso\\sample04.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\upload.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\authmanage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\sample.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\png.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckpasteplaintextcommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\topLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\8.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fck_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\anchor.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf5_upload.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fcktablecommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\common.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\hotCarton.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\de.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckconfig.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green4.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\dialog.sides.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\xls.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckcommands.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\aspx\\connector.aspx"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\_translationstatus.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso\\sample02.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\starsBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\bs.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_whatsnew_history.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "lib\\pingyin.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckdomtools.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckspellcheckcommand_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\gangtaiNews.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\util.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Ajax\\TestAjax.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\sample02.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\20%Pic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\controlWindow.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_smiley.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\teeth_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\manPic2Bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template\\images\\template1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\AGMpage.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\footLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green9.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\fck_dialog_common.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\rightUp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdomrange_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdomrange.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php\\sample03.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\vsd.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\run.bat"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckconfig.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\playerPhoto.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdataprocessor.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcklanguagemanager.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\authmanage.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\users.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\dll.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\behaviors\\showtableborders.htc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\connector.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\NewsList.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\cs.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\zip.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\package.bat"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fcktemplates.xml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\tablecommands"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\sprites.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\images\\reset.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\nb.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\swt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp\\sample02.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_image"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\dragresizetable\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\fckoutput.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\mdb.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\fi.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\lasso\\config.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block3-Bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\autogrow"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckxml_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl\\sampleposteddata.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\fckeditor.original.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmresourceslist.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckfitwindow.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktablehandler_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dtd\\fck_xhtml10strict.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\fr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\personalRankingList.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\fo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\arrow_rtl.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\tr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\it.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\js\\fckeditorcode_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\js\\common.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\newsPic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\server-scripts\\spellchecker.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Ajax"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl\\sample03.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\gif.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\sad_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckbrowserinfo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\fck_editor.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\icons"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\server-scripts\\spellchecker.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\samples"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\newsTitlePic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\newUpdate.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\heart.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\lang\\it.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\py\\sample01.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\behaviors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample14.styles.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.buttonarrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block6PicBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block3Pic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sonw.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\pl.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_select\\fck_select.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\class_upload.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\upload.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".project"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\game.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_colorselector.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_source.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block63.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\baigu.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\EditNewsType.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\yellowLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\mp3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block2PicBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\bbcode\\_sample"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample16.fla"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\dialog.sides.rtl.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckspecialcombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\application.xml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\find.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\js.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\fck_pagebreak.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\rihaiNews.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\AjaxClassList.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.buttonbg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about\\sponsors\\spellchecker_net.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\fckconstants.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\en-uk.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckregexlib.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\da.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\5.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckxml.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdocumentfragment_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\default.icon.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\fckeditor.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.separator.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\recommendRed.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31\\bcastr_readme.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".settings"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\fck.afpa.code"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\gl.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckxhtmlentities.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_io.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\fck_editor.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\devil_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_div.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Ê×Ò³_80-99.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\envelope.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.start.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckdebug_empty.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\spellchecker.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\spacer.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckindentcommands.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\jpg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample16.config.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdomrange_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample06.config.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample04_mx.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckdialog.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.start.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\LEFT.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf5_connector.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\spellChecker.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\blueLine.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp\\sampleposteddata.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\daluNews.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\beauty1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\fckcommands.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\fr-ca.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample10.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso\\sampleposteddata.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_hiddenfield.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\pdf.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\clothBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\movieList.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\sample04.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\search.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_pre.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_specialchar.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\playerMovie.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\lianjie.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample02_mx.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample02.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\singleGameBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\birthday.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template\\images\\template3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample11.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\whatchutalkingabout_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dtd\\fck_xhtml10transitional.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\fck_dialog_common.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmfolders.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dtd"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarstylecombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\wsc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\sprites.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckw3crange.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarbreak_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_button.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\is.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\default.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckstyles.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\avi.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample12.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\FolderOpened.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\sr-latn.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\samples\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckmenublock.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\http_imgloadCAVY9TD2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckplugins.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\addnews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\hotSingleGame.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\Edit_Del_NewsType.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\fck_internal.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckpackager.xml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\controls.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sampleposteddata.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\server-scripts\\spellchecker.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\rdp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample13.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TVGame.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\singleGamePic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_paste.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\fck_strip.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckdocumentprocessor.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_link.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckxhtml_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp\\sample04.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\horseLamp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\jinyong.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\hi.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green10.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\dialog.sides.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample14.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\behaviors\\disablehandles.htc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\title_blue.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about\\sponsors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_listprop.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktoolbarset.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fcktextcolorcommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckstyle.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\movie.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\icons\\32.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample15.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_basexml.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\fck_editor.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\images\\unlocked.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\util.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fck.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\currentRecom.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\sample16.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\es.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\clothMate.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\hu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\swfobject.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\DeleteLink.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\pt.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\sprites.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\AjaxGameManage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.buttonarrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\logo£¨ÐÞ¸Ä£©.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\login.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\fla.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\sample01_cert.pfx"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktablehandler_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\py\\sampleposteddata.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\thumbs_down.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktablehandler.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\ai.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktools_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\fck_placeholder.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktools.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\manPic2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckselection_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php\\sampleposteddata.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\10.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\commands.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\io.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\zh.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\bbcode\\_sample\\sample.config.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcklisthandler.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\angel_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ro.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\hotFashion.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\fckjscoreextensions.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\EditLink.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckdocumentfragment_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\fa.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about\\logo_fckeditor.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\http_imgloadCAL0THA8.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\7.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\config.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\fck_dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ru.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\dll.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\commands.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "lib"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\rankingList.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_radiobutton.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\fckdialog.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\en-au.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbar.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\bbcode"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample16.swf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\swt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\RIGHT.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\mdb.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fashionCloth.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\http_imgloadCARBXROF.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\cake.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\hot.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\io.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckpanel.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\sample01.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bigBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\deletenews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\html.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\bbcode\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "users.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31\\bcastr31.zip"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fck_othercommands.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.start.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green8.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\pt-br.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\nl.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\tablecommands\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php\\sample02.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcktools_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "lib\\DbHelper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\xml.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\default.icon.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\cs.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\km.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "DbTest.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\phpcompat.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\Folder.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample04.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckdebug.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\game.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\colorMan.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\music.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\lasso\\upload.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckeditingarea.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_select"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\dialog.sides.rtl.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\UpdateNews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\js\\fckeditorcode_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\asp\\sample01.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\fckdebug.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\sl.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\exe.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.collapse.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\fck_dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "lib\\DbCon.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_upgrade.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckblockquotecommand.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\dancing.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\pictures.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\wsgi.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.end.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\common\\images\\locked.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\cry_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarbutton.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\clothGirl.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.buttonarrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\eo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\kiss.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\sr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\mp3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\aspx"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.pl"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fcklistcommands.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\JsTestPhp.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\FolderUp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Ê×Ò³_135.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso\\sample03.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\fckeditorapi.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bcastr31\\bcastr.xml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\perl\\sample02.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_anchor.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fck_gecko.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\mn.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\test.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor_php5.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_util.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\eu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample11_frame.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\wink_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\broken_heart.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\de.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckhtmliterator.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block6Pic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\singleGame.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\aspx\\upload.aspx"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\wordWindow.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\del.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckundo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\af.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\EditLink.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\replace.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\dialog.sides.rtl.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_h5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\fck_anchor.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block62.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.arrowright.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\perl\\connector.cgi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\asp\\config.asp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\preview.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fcklistslib.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\fck_flashlogo.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\articals.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckkeystrokehandler.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\usermanage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\edit.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\gameListBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\editnews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\js.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarbuttonui.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\aspx\\config.ascx"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_flash\\fck_flash_preview.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\simplecommands\\fckplugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\Ajax.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\fck_showtableborders_gecko.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ca.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckmenublockpanel.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\4.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\FASHION.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\sampleslist.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\ppt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckspellcheckcommand_ie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\ar.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\txt.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_docprops"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckcontextmenu.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\fck_plugin.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\image.cfc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_spellerpages\\spellerpages\\blank.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bigHead.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\swf.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\downloadGames.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\bmp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_table.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\lasso\\sample01.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block2Middle-Line.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_about\\logo_fredck.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins\\placeholder\\lang\\it.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\tounge_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\dialog.sides.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\embaressed_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\lv.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\replace.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\fckeditor.lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\fck_dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_flash\\fck_flash.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dtd\\fck_dtd_test.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\php\\upload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckiecleanup.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\9.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckshowblocks.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "templates\\editnews.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\fck_dialog_ie6.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\manPic1Bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\fr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\fck_editorarea.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.end.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmresourcetype.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\images\\toolbar.end.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\cf_upload.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\omg_smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\dialog.sides.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\HOUSEHOLD.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\html\\assets\\sample14.config.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\luoqiPic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\css\\images\\block_address.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\green5.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\netGame.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fckevents.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\cs.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\plugins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\frmcreatefolder.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\commandclasses\\fckjustifycommands.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ps2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\adobeair\\icons\\128.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "admin\\setaddnews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\sample03.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\sk.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\fla.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\_plugins\\findreplace\\lang\\fr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\recommendGreen.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\classes\\fcktoolbarfontscombo.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\cfm\\sample01.cfm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\dialog\\fck_template\\images\\template2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\sampleposteddata.afp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\_source\\internals\\fckselection.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\doc.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\office2003\\images\\toolbar.separator.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\images\\smiley\\msn\\thumbs_up.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\afp\\fck.afpa"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\lasso"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\block3PicBg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_whatsnew.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\cfm\\ImageObject.cfc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\pl.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\default\\images\\toolbar.arrowright.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\lang\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\connectors\\py\\config.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php\\sample04.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\_samples\\php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\skins\\silver\\fck_strip.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fckeditor\\editor\\filemanager\\browser\\default\\images\\icons\\32\\png.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\AjaxClassList.js"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

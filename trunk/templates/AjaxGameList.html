@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<!--<?php
+print <<<EOT
+ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ajax游戏导航列表</title>
+<script type="text/javascript" src="../js/Ajax.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/AjaxGameList.js"></script>
+<style type="text/css">
+.news_th
+{
+    background-image:url(../images/title_blue.png);
+    height:24px;
+    min-width:100px;
+    text-align:center;
+}
+</style>
+</head>
+<body>
+选择游戏类别：<select id="gameClass" name="gameClass" />
+		<!--
+EOT
+;
+while($row=mysql_fetch_object($this->classList))
+{
+	$isCheck='';
+	if($row->id==$this->nowClass->id)
+	{
+		$isCheck='selected';
+	}
+	print <<<EOT
+	 -->
+ <option value='$row->id' $isCheck>$row->classname</option>
+		<!--
+EOT
+;
+}
+print <<<EOT
+-->
+</select>
+<input type="button" value="提交" onclick="GotoOtherClass()"> 
+当前游戏类别:
+$this->nowClassName
+
+<table border="1">
+<tr>
+<th class="news_th">选择</th>
+<th class="news_th">名称</th>
+<th class="news_th">url</th>
+<th class="news_th">颜色</th>
+<th class="news_th">操作</th>
+</tr>
+<!--
+EOT
+;
+while($row=mysql_fetch_object($this->linkList))
+{
+print <<<EOT
+	 -->
+	 <tr>
+			<td><input type="checkbox" value='$row->id' name="checkbox" /></td>
+			<td>$row->gamename</td>
+			<td>$row->gameurl</td>
+			<td style="background:$row->color">$row->color</td>
+			<td>
+			<img alt="修改" class="img_op" src="../images/edit.gif" onclick='EditLink($row->id);' style="cursor:pointer;" />
+			<img alt="删除" class="img_op" src="../images/del.gif" onclick='DelLink($row->id);' style="cursor:pointer;" />
+			</td>
+		</tr>
+		<!--
+EOT
+;
+}
+print <<<EOT
+-->
+</table>
+<input type="button" value="全部选中" onclick="CheckAll()"/>
+<input type="button" value="反选" onclick="ChangeCheck()"/>
+<input type="button" value="删除所选" onclick="DelChecked()"/>
+<input type="button" value="添加游戏和类别" onclick="GotoOtherPage('AjaxGameManage.php','正在跳转页面....')"/>
+</body>
+</html>
+<!--
+EOT
+?>-->
