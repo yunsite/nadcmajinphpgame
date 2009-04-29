@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<!--<?php
+print <<<EOT
+ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>$this->pagetitle</title>
+<script type="text/javascript" src="../js/Ajax.js"></script>
+<script type="text/javascript" src="../js/news.js"></script>
+<style type="text/css">
+.news_th
+{
+    background-image:url(../images/title_blue.png);
+    height:24px;
+}
+</style>
+</head>
+<body>
+<table border="1">
+<tr>
+<th class="news_th">选择</th>
+<th class="news_th">编号</th>
+<th class="news_th">标题</th>
+<th class="news_th">作者</th>
+<th class="news_th">日期</th>
+<th class="news_th">操作</th>
+</tr>
+<!--
+EOT
+;
+while($row=mysql_fetch_object($this->newsinfos))
+{
+print <<<EOT
+	 -->
+	 <tr>
+			<td><input type="checkbox"/></td>
+			<td>$row->id</td>
+			<td>$row->title</td>
+			<td>$row->author</td>
+			<td>$row->date</td>
+			<td>
+			<img alt="修改" class="img_op" src="../images/edit.gif" onclick='editnews($row->id);' style="cursor:pointer;" />
+			<img alt="查看" class="img_op" src="../images/preview.gif" onclick='previewnews($row->id);' style="cursor:pointer;" />
+			<img alt="删除" class="img_op" src="../images/del.gif" onclick='delnews($row->id);' style="cursor:pointer;" />
+			</td>
+		</tr>
+		<!--
+EOT
+;
+}
+print <<<EOT
+-->
+</table>
+</body>
+</html>
+<!--
+EOT
+?>-->
